@@ -1,4 +1,5 @@
 # expressdockerslim
+[![Build status](https://dev.azure.com/apurvc/dckapp/_apis/build/status/containersvc%20-%20CI)](https://dev.azure.com/apurvc/dckapp/_build/latest?definitionId=3)
 
 This is a sample implementation of dockerized express app with alpine to make a small container.
 
