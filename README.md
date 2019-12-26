@@ -9,7 +9,7 @@ To run app locally
 To install and run the image as docker 
 
 1. docker build -t nodeapp:1.0 . (build the app with name as nodeapp and version 1.0)
-2. docker run --name nodeexpress -p 80:3000 nodeapp:3.0 (run the image exposed locally on port 80 and 3000 on the container)
+2. docker run --name nodeexpress -p 80:3000 nodeapp:1.0 (run the image exposed locally on port 80 and 3000 on the container)
 
 
 
