@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/apurvc/dckapp/_apis/build/status/containersvc%20-%20CI?branchName=master)](https://dev.azure.com/apurvc/dckapp/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/apurvc/dckapp/_apis/build/status/apurvc.expressdockerslim?branchName=master)](https://dev.azure.com/apurvc/dckapp/_build/latest?definitionId=4&branchName=master)
 
 # expressdockerslim
 
